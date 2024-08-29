@@ -179,5 +179,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8080",  # Adjust the port if your Vue.js app runs on a different port
+    "http://localhost:3000",  # Adjust the port if your Vue.js app runs on a different port
 ]
